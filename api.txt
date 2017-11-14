@@ -1,0 +1,6 @@
+一. 各种值
+URL: https://www.google.com/recaptcha/api/siteverify
+secret (required) ="6LchnTgUAAAAALZNGglne2XkwAzOLfHy_huUDFrX";
+response (required)	The value of 'g-recaptcha-response'.
+remoteip(option)	The end user's ip address.
+二. 
